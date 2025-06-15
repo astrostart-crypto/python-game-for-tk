@@ -1,1 +1,1 @@
-# python gome
+# python game
